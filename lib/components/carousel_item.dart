@@ -41,8 +41,9 @@ class CarouselItem extends StatelessWidget {
         child: Text(
           text,
           textAlign: TextAlign.center,
-          style: TextStyle(
-            fontSize: 30,
+          style: const TextStyle(
+            fontFamily: "Allura",
+            fontSize: 90,
             fontWeight: FontWeight.bold,
             color: Colors.white,
           ),
