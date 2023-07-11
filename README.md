@@ -1,6 +1,23 @@
 # Flutter Cube Swipe
 
+<p align="center">
+    <img src="image_0.png" width="160">
+    <img src="image_1.png" width="160">
+    <img src="image_2.png" width="160">
+    <img src="image_3.png" width="160">
+    <img src="image_4.png" width="160">
+</p>
+
 This program is to test flutter and dart, testing out a basic swiping carousel.
+
+# Color Palettes
+
+The color palettes used in this program can be found at:
+    https://colorhunt.co/palette/181823537fe7c0eef2e9f8f9
+    https://colorhunt.co/palette/0081c95bc0f886e5ffffc93c
+    https://colorhunt.co/palette/0719520b666a35a29f97feed
+    https://colorhunt.co/palette/e966a02b27306554af9575de
+    https://colorhunt.co/palette/0a4d6808839505bfdb00ffca
 
 # Contribution 
 
