@@ -1,11 +1,12 @@
 # Flutter Image Carousel
 
 <p align="center">
-    <img src="image0.png" width="160">
-    <img src="image1.png" width="160">
-    <img src="image2.png" width="160">
-    <img src="image3.png" width="160">
-    <img src="image4.png" width="160">
+    <img src="video0.gif" alt="animated"/>
+    <img src="image0.png" width="160"/>
+    <img src="image1.png" width="160"/>
+    <img src="image2.png" width="160"/>
+    <img src="image3.png" width="160"/>
+    <img src="image4.png" width="160"/>
 </p>
 
 This program is to test flutter and dart, testing out a basic swiping carousel.
