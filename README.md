@@ -1,4 +1,4 @@
-# Flutter Cube Swipe
+# Flutter Image Carousel
 
 <p align="center">
     <img src="image0.png" width="160">
@@ -26,11 +26,11 @@ The color palettes used in this program can be found at:
 
 # Contribution 
 
-If you'd like to contribute to `flutter_cube_swipe` please submit a pull-request on a feature branch.
+If you'd like to contribute to `flutter_image_carousel` please submit a pull-request on a feature branch.
 
 # Installing
 
 Clone the repo:
 
-    git clone https://github.com/Sommos/flutter_cube_swipe
-    cd flutter_cube_swipe
+    git clone https://github.com/Sommos/flutter_image_carousel
+    cd flutter_image_carousel
