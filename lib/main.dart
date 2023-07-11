@@ -30,7 +30,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return CarouselSlider(
       options: CarouselOptions(
-        height: 350,
+        height: MediaQuery.of(context).size.height,
         aspectRatio: 16/9,
         viewportFraction: 0.8,
         initialPage: 0,
